@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    /* text-emphasis: bold; */
+    /* text: white; */
+}
+
+
+
+body {
+    text: white;
+    align-content:center;
+    text-align: center;
+    /* background-color: black; */
+}
+
+
+
+.container {
+    border-top-style: solid;
+    border-top-color: white;
+}
